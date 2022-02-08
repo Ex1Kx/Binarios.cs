@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\Binario\bin\Debug\netcoreapp3.1\Binario.exe
+C:\Users\SENA\source\repos\Binario\bin\Debug\netcoreapp3.1\Binario.deps.json
+C:\Users\SENA\source\repos\Binario\bin\Debug\netcoreapp3.1\Binario.runtimeconfig.json
+C:\Users\SENA\source\repos\Binario\bin\Debug\netcoreapp3.1\Binario.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Binario\bin\Debug\netcoreapp3.1\Binario.dll
+C:\Users\SENA\source\repos\Binario\bin\Debug\netcoreapp3.1\Binario.pdb
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.dll
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.pdb
+C:\Users\SENA\source\repos\Binario\obj\Debug\netcoreapp3.1\Binario.genruntimeconfig.cache
